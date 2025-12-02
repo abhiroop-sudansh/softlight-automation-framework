@@ -1,0 +1,82 @@
+[
+  {
+    "step": 1,
+    "instruction": "Navigate to https://github.com/",
+    "url": "https://github.com/",
+    "title": "GitHub",
+    "screenshot": "screenshots/step_001.png",
+    "action_type": "navigate",
+    "action_taken": "Navigated to https://github.com",
+    "thinking": "I need to navigate to GitHub to perform the search and sorting task."
+  },
+  {
+    "step": 2,
+    "instruction": "Click on 'Search'",
+    "url": "https://github.com/",
+    "title": "GitHub",
+    "screenshot": "screenshots/step_002.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 6",
+    "thinking": "I need to use the search bar to find 'tensorflow' repositories."
+  },
+  {
+    "step": 3,
+    "instruction": "Type in the 'input 'query-builder-test'' field",
+    "url": "https://github.com/",
+    "title": "GitHub",
+    "screenshot": "screenshots/step_003.png",
+    "action_type": "input",
+    "action_taken": "Typed 'tensorflow'",
+    "thinking": "I need to input 'tensorflow' into the search bar and execute the search."
+  },
+  {
+    "step": 4,
+    "instruction": "Pressed Enter",
+    "url": "https://github.com/",
+    "title": "GitHub",
+    "screenshot": "screenshots/step_004.png",
+    "action_type": "send_keys",
+    "action_taken": "Pressed Enter",
+    "thinking": "I need to input 'tensorflow' into the search bar and execute the search."
+  },
+  {
+    "step": 5,
+    "instruction": "Click on 'Date pushed'",
+    "url": "https://github.com/search?q=tensorflow&type=repositories",
+    "title": "Repository search results",
+    "screenshot": "screenshots/step_005.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 37",
+    "thinking": "I need to sort the search results by stars."
+  },
+  {
+    "step": 6,
+    "instruction": "Click on 'License'",
+    "url": "https://github.com/search?q=tensorflow&type=repositories",
+    "title": "Repository search results",
+    "screenshot": "screenshots/step_006.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 46",
+    "thinking": "I need to sort the search results by stars to complete the task."
+  },
+  {
+    "step": 7,
+    "instruction": "Click on 'Open global navigation menu'",
+    "url": "https://github.com/search?q=tensorflow&type=repositories",
+    "title": "Repository search results",
+    "screenshot": "screenshots/step_007.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 2",
+    "thinking": "I need to select the 'Most stars' option to sort the repositories by stars."
+  },
+  {
+    "step": 8,
+    "instruction": "Task completed",
+    "url": "https://github.com/search?q=tensorflow&type=repositories&s=stars&o=desc",
+    "title": "Repository search results",
+    "screenshot": "screenshots/step_008.png",
+    "action_type": "done",
+    "action_taken": "Task completed",
+    "thinking": "I have successfully sorted the 'tensorflow' repositories by stars."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "step": 1,
+    "instruction": "Click on 'Create new issue'",
+    "url": "https://linear.app/random2002222/projects/all",
+    "title": "Projects",
+    "screenshot": "screenshots/step_001.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 4",
+    "thinking": "I need to create a new issue in Linear with a specific title and priority. The 'Create new issue' button is available on the current page."
+  },
+  {
+    "step": 2,
+    "instruction": "Type in the 'Set team' field",
+    "url": "https://linear.app/random2002222/projects/all",
+    "title": "Projects",
+    "screenshot": "screenshots/step_002.png",
+    "action_type": "input",
+    "action_taken": "Typed 'Fix login bug'",
+    "thinking": "I need to fill in the issue title and set the priority to High."
+  },
+  {
+    "step": 3,
+    "instruction": "Click on 'Apply suggested \"Bug\" label'",
+    "url": "https://linear.app/random2002222/projects/all",
+    "title": "Projects",
+    "screenshot": "screenshots/step_003.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 49",
+    "thinking": "I need to set the priority of the issue to 'High'."
+  },
+  {
+    "step": 4,
+    "instruction": "Click on 'Change priority. No priority is selected'",
+    "url": "https://linear.app/random2002222/projects/all",
+    "title": "Projects",
+    "screenshot": "screenshots/step_004.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 51",
+    "thinking": "I need to set the priority to 'High' for the issue."
+  },
+  {
+    "step": 5,
+    "instruction": "Click on 'High\n2'",
+    "url": "https://linear.app/random2002222/projects/all",
+    "title": "Projects",
+    "screenshot": "screenshots/step_005.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 62",
+    "thinking": "I need to select 'High' from the priority options to set the priority for the issue."
+  },
+  {
+    "step": 6,
+    "instruction": "Click on element 58",
+    "url": "https://linear.app/random2002222/projects/all",
+    "title": "Projects",
+    "screenshot": "screenshots/step_006.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 58",
+    "thinking": "The priority has been set to 'High'. Now, I need to finalize the issue creation."
+  },
+  {
+    "step": 7,
+    "instruction": "Click on element 57",
+    "url": "https://linear.app/random2002222/team/RAN/active",
+    "title": "Random2002222 \u203a Active issues",
+    "screenshot": "screenshots/step_007.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 57",
+    "thinking": "I have successfully set the priority to 'High' and now need to finalize the issue creation."
+  },
+  {
+    "step": 8,
+    "instruction": "Task completed",
+    "url": "https://linear.app/random2002222/team/RAN/active",
+    "title": "Random2002222 \u203a Active issues",
+    "screenshot": "screenshots/step_008.png",
+    "action_type": "done",
+    "action_taken": "Task completed",
+    "thinking": "The issue titled 'Fix login bug' with priority 'High' has been successfully created."
+  }
+]

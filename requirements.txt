@@ -1,0 +1,38 @@
+# Browser Automation Framework Requirements
+# Core dependencies
+
+# OpenAI GPT API
+openai>=1.40.0
+
+# Browser automation
+playwright>=1.40.0
+
+# Data validation and serialization
+pydantic>=2.0.0
+
+# Async utilities
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# Environment management
+python-dotenv>=1.0.0
+
+# CLI
+click>=8.1.0
+rich>=13.7.0
+
+# Image processing (for screenshots)
+Pillow>=10.0.0
+
+# Logging and utilities
+structlog>=24.1.0
+
+# Type checking (development)
+typing-extensions>=4.9.0
+
+# HTTP client
+httpx>=0.26.0
+
+# JSON schema
+jsonschema>=4.21.0
+

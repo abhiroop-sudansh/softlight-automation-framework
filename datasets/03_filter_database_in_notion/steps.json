@@ -1,0 +1,102 @@
+[
+  {
+    "step": 1,
+    "instruction": "Navigate to https://www.notion.so/?cookie_sync_completed=true",
+    "url": "https://www.notion.so/?cookie_sync_completed=true",
+    "title": "Notion",
+    "screenshot": "screenshots/step_001.png",
+    "action_type": "navigate",
+    "action_taken": "Navigated to https://notion.so",
+    "thinking": "I need to navigate to Notion to demonstrate how to filter a database."
+  },
+  {
+    "step": 2,
+    "instruction": "Click on 'Add a page inside'",
+    "url": "https://www.notion.so/Getting-Started-2b5f57060bb880f29af6fd896763add4",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_002.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 41",
+    "thinking": "I need to locate a database page in Notion to demonstrate how to filter it."
+  },
+  {
+    "step": 3,
+    "instruction": "Click on 'Done'",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_003.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 74",
+    "thinking": "I am on a Notion page with a database. I need to demonstrate how to filter this database."
+  },
+  {
+    "step": 4,
+    "instruction": "Click on 'Filter'",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_004.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 76",
+    "thinking": "I see the filter button on the page. I will click it to demonstrate how to filter the database."
+  },
+  {
+    "step": 5,
+    "instruction": "Click on ' '",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_005.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 84",
+    "thinking": "I have located the filter button on the Notion database page. The next step is to click on 'Edit filters' to set up a filter."
+  },
+  {
+    "step": 6,
+    "instruction": "Click on element 93",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_006.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 93",
+    "thinking": "I see the filter options are open. I need to demonstrate how to add a new filter."
+  },
+  {
+    "step": 7,
+    "instruction": "Click on 'div element'",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_007.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 92",
+    "thinking": "I need to add a filter to the database in Notion."
+  },
+  {
+    "step": 8,
+    "instruction": "Type in the 'Filter by\u2026' field",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_008.png",
+    "action_type": "input",
+    "action_taken": "Typed 'Task name'",
+    "thinking": "I see the filter options are open, and I need to add a filter."
+  },
+  {
+    "step": 9,
+    "instruction": "Click on 'Task name: example task'",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_009.png",
+    "action_type": "click",
+    "action_taken": "Clicked on element 96",
+    "thinking": "I have successfully opened the filter options and input a filter criterion. Now, I need to apply the filter to demonstrate filtering a database in Notion."
+  },
+  {
+    "step": 10,
+    "instruction": "Task completed",
+    "url": "https://www.notion.so/To-Do-List-2b5f57060bb880069981ce5ef6580da8",
+    "title": "To Do List",
+    "screenshot": "screenshots/step_010.png",
+    "action_type": "done",
+    "action_taken": "Task completed",
+    "thinking": "I have successfully opened the filter options and input a filter criterion. Now, I need to apply the filter to demonstrate filtering a database in Notion."
+  }
+]

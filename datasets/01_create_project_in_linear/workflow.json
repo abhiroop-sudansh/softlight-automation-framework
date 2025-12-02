@@ -1,0 +1,78 @@
+{
+  "task_id": "1092bab2",
+  "task_name": "01_how_do_i_create_a_new_project_named_softlight_ai",
+  "original_query": "How do I Create a new project named \u2018Softlight AI Automation\u2019 with summary \u2019New Era in AI\u2019 in Linear?",
+  "app_name": "Linear",
+  "app_url": "about:blank",
+  "created_at": "2025-12-02T14:26:39.101715",
+  "completed_at": "2025-12-02T14:27:21.282187",
+  "success": true,
+  "total_steps": 9,
+  "duration_seconds": 42.180472,
+  "summary": "Successfully demonstrated: How do I Create a new project named \u2018Softlight AI Automation\u2019 with summary \u2019New Era in AI\u2019 in Linear?",
+  "steps": [
+    {
+      "step_number": 1,
+      "instruction": "Navigate to https://linear.app/",
+      "screenshot": "screenshots/step_001.png",
+      "url": "https://linear.app/",
+      "action": "Navigated to https://linear.app"
+    },
+    {
+      "step_number": 2,
+      "instruction": "Click on element 0",
+      "screenshot": "screenshots/step_002.png",
+      "url": "https://linear.app/random2002222/team/RAN/active",
+      "action": "Clicked on element 0"
+    },
+    {
+      "step_number": 3,
+      "instruction": "Click on 'Projects'",
+      "screenshot": "screenshots/step_003.png",
+      "url": "https://linear.app/random2002222/team/RAN/active",
+      "action": "Clicked on element 12"
+    },
+    {
+      "step_number": 4,
+      "instruction": "Click on 'Add project'",
+      "screenshot": "screenshots/step_004.png",
+      "url": "https://linear.app/random2002222/projects/all",
+      "action": "Clicked on element 37"
+    },
+    {
+      "step_number": 5,
+      "instruction": "Type in the 'Project name' field",
+      "screenshot": "screenshots/step_005.png",
+      "url": "https://linear.app/random2002222/projects/all",
+      "action": "Typed 'Softlight AI Automation'"
+    },
+    {
+      "step_number": 6,
+      "instruction": "Type in the 'Project summary' field",
+      "screenshot": "screenshots/step_006.png",
+      "url": "https://linear.app/random2002222/projects/all",
+      "action": "Typed 'New Era in AI'"
+    },
+    {
+      "step_number": 7,
+      "instruction": "Click on 'Change project target date'",
+      "screenshot": "screenshots/step_007.png",
+      "url": "https://linear.app/random2002222/projects/all",
+      "action": "Clicked on element 147"
+    },
+    {
+      "step_number": 8,
+      "instruction": "Click on element 155",
+      "screenshot": "screenshots/step_008.png",
+      "url": "https://linear.app/random2002222/projects/all",
+      "action": "Clicked on element 155"
+    },
+    {
+      "step_number": 9,
+      "instruction": "Task completed",
+      "screenshot": "screenshots/step_009.png",
+      "url": "https://linear.app/random2002222/project/softlight-ai-automation-36b2ea687c5e/overview",
+      "action": "Task completed"
+    }
+  ]
+}
