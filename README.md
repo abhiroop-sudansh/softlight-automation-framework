@@ -318,7 +318,7 @@ Full list in `requirements.txt`.
 
 ## 🎥 Demo
 
-> 📹 **[Watch the Demo Video on Loom](YOUR_LOOM_LINK_HERE)** ← *Replace with your Loom link*
+> 📹 **[Watch the Demo Video on Loom](https://www.loom.com/share/5b8e65939e714b919517355cfb6edb08)** ← *Replace with your Loom link*
 
 See the agent navigate Linear, Notion, and GitHub autonomously!
 
