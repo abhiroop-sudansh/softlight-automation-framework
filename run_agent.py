@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Agent A ↔ Agent B Tutorial System
+SOFTLIGHT AUTOMATION AGENT
 =================================
 
 A simple command-line interface where you (Agent A) give commands 
@@ -43,24 +43,22 @@ def print_banner():
     """Print welcome banner."""
     print()
     print("=" * 60)
-    print("🤖 Agent A ↔ Agent B Tutorial System")
+    print("🤖 SOFTLIGHT AUTOMATION AGENT")
     print("=" * 60)
     print()
     print("Give commands and Agent B will perform them in the browser,")
     print("capturing screenshots at each step.")
     print()
     print("Examples:")
-    print('  • Create a new project named "softlight AI" in Linear')
-    print('  • Turn on toggle "Start week on Monday" in Notion')
-    print('  • Search for Python repositories on GitHub')
-    print('  • Find the top stories on Hacker News')
-    print()
+    print('  • How do I Create a new project named ‘Softlight AI Automation’ with summary ’New Era in AI’ in Linear?')
+    print('  • How can I Create a new issue titled Fix login bug with priority High in Linear?')
+    
     
     # Check for saved session
     if SESSION_FILE.exists():
         print("✅ Saved login session found - will use your logged-in accounts")
     else:
-        print("💡 Tip: Run 'python save_session.py' to save your login sessions")
+        print(" Run 'python save_session.py' to save your login sessions")
     print()
     print("Type 'quit' or 'exit' to stop.")
     print("=" * 60)
