@@ -1,5 +1,18 @@
 # 🤖 Softlight AI Automation Framework
 
+## Why This Fits the Softlight Take-Home
+
+This project was built specifically for the Softlight take-home assignment.
+
+It focuses on:
+
+-  Generalizable browser agent (no hardcoded app workflows)
+-  Capturing non-URL UI states (modals, dropdowns, overlays)
+-  Session persistence for authenticated apps (Linear, Notion, GitHub)
+-  Loop detection & graceful error recovery
+-  Dataset of real UI workflows (screenshots + JSON + Markdown)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Playwright-1.40+-green.svg" alt="Playwright">
@@ -105,7 +118,7 @@ softlight_automation_framework/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/softlight-automation-framework.git
+   git clone https://github.com/abhiroop-sudansh/softlight-automation-framework.git
    cd softlight-automation-framework
    ```
 
